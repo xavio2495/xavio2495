@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm ANTONY XAVIO IMMANUEL</h1>
 <h3 align="center">A student and a developer, just living life as a hobby</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xavio2495&label=Profile%20views&color=0e75b6&style=flat" alt="xavio2495" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xavio2495" alt="xavio2495" /></a> </p>
-
 - 🌱 I’m currently learning **Rust, Go, Docker, Kubernetes, AWS**
 
 - 💬 Ask me about **Python, Algorithm**
@@ -13,6 +9,8 @@
 
 - ⚡ Fun fact **Bit too lazy to fill this part he he**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xavio2495&label=Profile%20views&color=0e75b6&style=flat" alt="xavio2495" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xavio2495" alt="xavio2495" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/immanuel2495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="immanuel2495" height="30" width="40" /></a>
