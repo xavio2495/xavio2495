@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xavio2495" alt="xavio2495" /></a> </p>
 
-- 🌱 I’m currently learning **Vue JS, Docker, Kubernetes, AWS**
+- 🌱 I’m currently learning **Rust, Go, Docker, Kubernetes, AWS**
 
 - 💬 Ask me about **Python, Algorithm**
 
-- 📫 How to reach me **xavio.delta2495@outlook.com**
+- 📫 How to reach me **immanuel.2495@gmail.com**
 
-- ⚡ Fun fact **I'm scared of bugs (in my code)**
+- ⚡ Fun fact **Bit too lazy to fill this part he he**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
