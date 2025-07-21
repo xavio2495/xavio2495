@@ -1,7 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xavio2495&label=Profile%20views&color=0e75b6&style=flat" alt="xavio2495" /> </p>
 <h4 align="center">The Github repository for</h4>
 <h1 align="center">ANTONY XAVIO IMMANUEL</h1>
 <h4 align="center">A student developer, who lives his life as a hobby</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xavio2495&label=Profile%20views&color=0e75b6&style=flat" alt="xavio2495" /> </p>
+
 <p align="center">
 <a href="https://twitter.com/immanuel2495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="immanuel2495" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/xav2495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xav2495" height="30" width="40" /></a>
