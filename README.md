@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm ANTONY XAVIO IMMANUEL</h1>
-<h3 align="center">A student and a developer, just living life as a hobby</h3>
+<h4 align="center">The Github repository for</h4>
+<h1 align="center">ANTONY XAVIO IMMANUEL</h1>
+<h3 align="center">A student developer, who lives his life as a hobby</h3>
 
 - 🌱 I’m currently learning **Rust, Go, Docker, Kubernetes, AWS**
 
@@ -7,7 +8,7 @@
 
 - 📫 How to reach me **immanuel.2495@gmail.com**
 
-- ⚡ Fun fact **Bit too lazy to fill this part he he**
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xavio2495&label=Profile%20views&color=0e75b6&style=flat" alt="xavio2495" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xavio2495" alt="xavio2495" /></a> </p>
