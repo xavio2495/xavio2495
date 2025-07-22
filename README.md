@@ -17,6 +17,8 @@
 
 - Mail: **2495.immanuel@gmail.com**
 
+- I upload stuff to github only when my local storage runs out.
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
